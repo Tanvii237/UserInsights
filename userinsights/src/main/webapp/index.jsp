@@ -1,0 +1,1 @@
+<% response.sendRedirect("/userinsights/swagger-ui.html#/"); %>
